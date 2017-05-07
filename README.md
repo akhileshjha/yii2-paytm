@@ -1,7 +1,7 @@
 # yii2-paytm
 Paytm Integration in YII2
 
-## IHow to install 
+## How to install 
 1.create a components folder under the common folder of root directory if it does not exist.  
   Copy the yii2-paytm/components/Paytm Class to thta folder  
 
