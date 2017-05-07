@@ -9,7 +9,7 @@
 /**
  * Description of Ccavenue
  *
- * @author Akram Hossain <akram_cse@yahoo.com>
+ * @author Akhilesh Jha <akhileshjha.48@gmail.com>
  */
 
 namespace common\components;
@@ -23,12 +23,9 @@ class Paytm extends Component
 {
 
     /**
-     * @author Akram Hossain<akram_cse@yahoo.com>
-     * @param type $params  checkout data 
-     * @param type $type  purchase type
+     * @author Akhilesh Jha<akhileshjha.48@gmail.com>
+     * @param type $params  data required for checkout
      * @param type $env  environment will be test or production
-     * @param type $host hosting server will be live,websites or local
-     * @purpose for subscription,payment
      */
     
     static function configPaytm($params, $env)
