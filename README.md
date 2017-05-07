@@ -39,7 +39,7 @@ Paytm Integration in YII2
 
 
 ## Note
-I have done becuase there is no tutorial available for paytm integration in yii2
+I have done  this becuase there is no tutorial available for paytm integration in yii2
 I Hope that it will help someone and save time as well
 
 Thanks
