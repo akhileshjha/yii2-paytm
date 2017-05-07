@@ -7,7 +7,7 @@
  */
 
 /**
- * Description of Ccavenue
+ * Description of Paytm
  *
  * @author Akhilesh Jha <akhileshjha.48@gmail.com>
  */
